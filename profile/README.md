@@ -8,7 +8,7 @@ Steve Jobs
 
 # Keiko Personal Assistant
 
-<img src="assets/svg/Logo_Keiko_DCFF4A.svg" alt="Keiko Logo" width="200" />
+<img src="./Logo_Keiko_DCFF4A.svg" alt="Keiko Logo" width="200" />
 
 ### *The Future of Enterprise Multi-Agent Intelligence*
 
