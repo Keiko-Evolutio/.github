@@ -12,20 +12,19 @@ Steve Jobs
 
 ### *The Future of Enterprise Multi-Agent Intelligence*
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/keiko-development)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/keiko-development/actions)
-[![Coverage](https://img.shields.io/badge/coverage-85%2B-brightgreen.svg)](https://codecov.io/gh/keiko-development)
-[![Enterprise Ready](https://img.shields.io/badge/enterprise-ready-blue.svg)](https://keiko.ai/enterprise)
-[![AI Powered](https://img.shields.io/badge/AI-powered-purple.svg)](https://keiko.ai/ai)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+[![Coverage](https://img.shields.io/badge/coverage-85%2B-brightgreen.svg)]()
+[![Enterprise Ready](https://img.shields.io/badge/enterprise-ready-blue.svg)]()
+[![AI Powered](https://img.shields.io/badge/AI-powered-purple.svg)]()
 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com/)
 
-[![SOC 2 Compliant](https://img.shields.io/badge/SOC%202-Compliant-blue)](https://keiko.dev/compliance)
-[![99.99% Uptime](https://img.shields.io/badge/Uptime-99.99%25-brightgreen)](https://status.keiko.dev)
+[![SOC 2 Compliant](https://img.shields.io/badge/SOC%202-Compliant-blue)]()
+[![99.99% Uptime](https://img.shields.io/badge/Uptime-99.99%25-brightgreen)]()
 
 </div>
 
