@@ -1,7 +1,16 @@
-# 🚀 Keiko Personal Assistant
-### *The Future of Enterprise Multi-Agent Intelligence*
-
 <div align="center">
+
+# **Think Big, Start Small...**
+
+*"Here’s to the crazy ones, the misfits, the rebels, the troublemakers, the round pegs in the square holes… the ones who see things differently — they’re not fond of rules… You can quote them, disagree with them, glorify or vilify them, but the only thing you can’t do is ignore them because they change things… they push the human race forward, and while some may see them as the crazy ones, we see genius, because the ones who are crazy enough to think that they can change the world, are the ones who do."*
+
+Steve Jobs
+
+# Keiko Personal Assistant
+
+<img src="assets/svg/Logo_Keiko_DCFF4A.svg" alt="Keiko Logo" width="200" />
+
+### *The Future of Enterprise Multi-Agent Intelligence*
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/keiko-development)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -269,17 +278,5 @@ Das System unterstützt Multi-Tenancy mit strikter Datenisolation zwischen versc
 **🎓 Akademische Lizenz**: Kostenlos für Bildungs- und Forschungseinrichtungen
 
 *Copyright © 2025 Keiko Development.*
-
----
-
-<div align="center">
-
-### **Think Big, Start Small...**
-
-*"Here’s to the crazy ones, the misfits, the rebels, the troublemakers, the round pegs in the square holes… the ones who see things differently — they’re not fond of rules… You can quote them, disagree with them, glorify or vilify them, but the only thing you can’t do is ignore them because they change things… they push the human race forward, and while some may see them as the crazy ones, we see genius, because the ones who are crazy enough to think that they can change the world, are the ones who do."*
-
-Steve Jobs
-
-</div>
 
 </div>
