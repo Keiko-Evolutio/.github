@@ -37,13 +37,13 @@ Steve Jobs
 Der zentrale Gedanke dieser Architektur ist die Schaffung eines flexiblen Ökosystems, in dem intelligente Agents miteinander kommunizieren und zusammenarbeiten können, während gleichzeitig eine robuste Verwaltungs- und Überwachungsinfrastruktur bereitgestellt wird.
 
 ### Leistungsmerkmale
-- **45% Reduktion** in Hand-offs zwischen Services durch intelligente Orchestrierung
-- **3x Verbesserung** in Entscheidungsgeschwindigkeit durch parallele Agent-Verarbeitung  
-- **60% Steigerung** der Ergebnisgenauigkeit durch kollektive Intelligenz-Mechanismen
+- **Reduktion** in Hand-offs zwischen Services durch intelligente Orchestrierung
+- **Verbesserung** in Entscheidungsgeschwindigkeit durch parallele Agent-Verarbeitung  
+- **Steigerung** der Ergebnisgenauigkeit durch kollektive Intelligenz-Mechanismen
 
 ## Kern-Komponenten der Architektur
 
-Das Keiko-System besteht aus vier Hauptkomponenten, die zusammen das vollständige Multi-Agent-Ökosystem bilden:
+Das Keiko-System besteht aus drei zentralen Systemkomponenten und der SDK für Third-Party-Systemkomponenten:
 
 ### **keiko-backbone** - Infrastructure Services Container
 Der zentrale Verwaltungshub, der essenzielle Infrastrukturdienste bereitstellt:
@@ -77,7 +77,7 @@ Das Contract-Management-System für alle Systemschnittstellen:
 Das Entwicklungsframework für Drittanbieter-Erweiterungen:
 
 - **Multi-Protocol-Unterstützung:** KEI-RPC, KEI-Stream, KEI-Bus, KEI-MCP
-- **Token-basierte Registrierung:** Sichere Integration externer Agents
+- **Token-basierte Registrierung:** Sichere Integration externer Agents, MCP-Server und weiterer Tools
 - **Capability-Management:** Intelligente Service Discovery und Capability-Matching
 - **Enterprise-Integration:** RBAC, Audit-Logging, Compliance-Unterstützung
 - **Branchenspezifische Patterns:** Templates für Manufacturing, Healthcare, Finance
@@ -133,16 +133,16 @@ Das Entwicklungsframework für Drittanbieter-Erweiterungen:
 ## Innovative Technologien
 
 ### Liquid Neural Networks
-Das System implementiert **Liquid Neural Networks** für adaptive Agent-Verhalten mit **89% weniger Energieverbrauch** als traditionelle Transformer. Diese Technologie ermöglicht es Agents, ihre Architektur basierend auf Aufgabenanforderungen evolutionär zu entwickeln.
+Das System implementiert **Liquid Neural Networks** für adaptives Agent-Verhalten mit **weniger Energieverbrauch** als traditionelle Transformer. Diese Technologie ermöglicht es Agents, ihre Architektur basierend auf Aufgabenanforderungen evolutionär zu entwickeln.
 
 ### Consciousness-Aware AI Framework
-Eine Weltpremiere-Implementation von **Integrated Information Theory (IIT)** Metriken zur Messung von Agent-Bewusstsein und **Global Workspace Theory** für bewusste Agent-Koordination. Dies ermöglicht Meta-Cognitive Reasoning, bei dem Agents ihr eigenes Denken überwachen und optimieren.
+Eine Implementation von **Integrated Information Theory (IIT)** Metriken zur Messung von Agent-Bewusstsein und **Global Workspace Theory** für bewusste Agent-Koordination. Dies ermöglicht Meta-Cognitive Reasoning, bei dem Agents ihr eigenes Denken überwachen und optimieren.
 
 ### Morphogenic Agent Evolution System
 Selbst-evolvierende Agent-Architekturen durch **Developmental AI** Prinzipien. Agents können ihre neuronale Struktur, Kommunikationsprotokolle und Programmcode dynamisch rekonfigurieren. **Epigenetic Learning** ermöglicht die Vererbung erlernter Fähigkeiten an nachfolgende Agent-Generationen.
 
 ### Federated Learning Framework
-Kollektives Lernen ohne Datenweitergabe - Agents trainieren lokale Modelle und teilen nur Modell-Updates. Implementierungen in der medizinischen Bildanalyse zeigen **33% Verbesserungen** in der Genauigkeit durch kollaboratives Lernen über 70+ Institutionen.
+Kollektives Lernen und kollaboratives Lernen ohne Datenweitergabe - Agents trainieren lokale Modelle und teilen nur Modell-Updates.
 
 ---
 
