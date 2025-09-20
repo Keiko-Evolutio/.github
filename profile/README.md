@@ -6,7 +6,7 @@
 
 Steve Jobs
 
-*恵子 - けいこ*
+恵子 - けいこ
 
 # Keiko Systema Adiutoris Personalis
 
