@@ -6,6 +6,8 @@
 
 Steve Jobs
 
+*恵子 - けいこ*
+
 # Keiko Systema Adiutoris Personalis
 
 <img src="./Logo_Keiko_DCFF4A.svg" alt="Keiko Logo" width="200" />
