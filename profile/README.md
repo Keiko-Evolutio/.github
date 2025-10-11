@@ -8,9 +8,8 @@ Steve Jobs
 
 # Keiko Systema Adiutoris Personalis
 
-恵子 - けいこ
-
 <img src="./Logo_Keiko_DCFF4A.svg" alt="Keiko Logo" width="200" />
+恵子 - けいこ
 
 ### *Enterprise Multi-Agent Platform für Intelligente Orchestrierung*
 
